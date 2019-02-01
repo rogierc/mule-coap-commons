@@ -1,3 +1,5 @@
+# Project has moved to: [https://github.com/teslanet-nl/mule-coap-commons](https://github.com/teslanet-nl/mule-coap-commons)
+
 # Mule CoAP connector - Commons
 ![Mule-Coap logo](coap-logo.svg)
 
